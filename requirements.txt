@@ -1,1 +1,5 @@
-
+git init
+git remote add origin https://github.com/captain_taniguchi/s2_2a_a_test.git #皆さんのレポジトリー名
+git add .
+git commit -m'first commit'
+git push origin main
